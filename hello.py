@@ -19,3 +19,18 @@ while n > 0 :
     print(n)
     n = n - 1  # or use n -= 1
 print("Blastoff!")
+
+# variables
+hours = 35.0
+rate = 12.50
+pay = hours * rate
+print("pay =",pay)
+
+# input
+name = input("What's your name? : ")
+print("Hello,",name)
+
+# input - convert to int
+eurof = input("Europe floor? : ")
+usf = int(eurof) + 1
+print("US floor would be",usf)
