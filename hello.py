@@ -48,11 +48,27 @@
 #     print("Done with", i + 1)
 # print("All Done")
 
-x = 25
-if x < 2:
-    print("Small")
-elif x < 10:
-    print("Medium")
-else:
-    print("LARGE")
-print("All Done")
+# x = 25
+# if x < 2:
+#     print("Small")
+# elif x < 10:
+#     print("Medium")
+# else:
+#     print("LARGE")
+# print("All Done")
+
+astr = "Hello Bob"
+try:
+    istr = int(astr)
+except:
+    istr = -1
+
+print("First", istr)
+
+astr = "123"
+try:
+    istr = int(astr)
+except:
+    istr = -1
+
+print("Second", istr)
