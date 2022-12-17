@@ -35,15 +35,24 @@
 # usf = int(eurof) + 1
 # print("US floor would be",usf)
 
-z = 5
-if z > 2:
-    print("Bigger than 2")
-    print("Still Bigger")
-print("Done with", z)
+# z = 5
+# if z > 2:
+#     print("Bigger than 2")
+#     print("Still Bigger")
+# print("Done with", z)
 
-for i in range(5):
-    # print(i)
-    if i > 2:
-        print("Bigger than", i - 1)
-    print("Done with", i + 1)
+# for i in range(5):
+#     # print(i)
+#     if i > 2:
+#         print("Bigger than", i - 1)
+#     print("Done with", i + 1)
+# print("All Done")
+
+x = 25
+if x < 2:
+    print("Small")
+elif x < 10:
+    print("Medium")
+else:
+    print("LARGE")
 print("All Done")
