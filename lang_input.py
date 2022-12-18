@@ -1,11 +1,13 @@
 def greet(lang):
     if lang == 'es':
-        print("Hola")
+        return "Hola"
     elif lang == 'fr':
-        print("Bonjour")
+        return "Bonjour"
     else:
-        print("Hello")
+        return "Hello"
 
 print("Examples: es, fr, gb etc...")
 language = input("Enter your language: ")
-greet(language)
+name = input("Enter your name: ")
+
+print(greet(language), name)
