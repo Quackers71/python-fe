@@ -1,7 +1,8 @@
-from colorama import Fore, Style
+# from colorama import Fore, Style
 
-def addtwo(a, b):
-    added = a + b
+def addfour(a, b, c, d):
+    added = a + b + c + d
+    
     return added
 
 def trycatch(n):
@@ -13,7 +14,8 @@ def trycatch(n):
     if inp > 0:
         print("Ok, thanks")
     else:
-        print(Fore.RED + "not a number!" + Style.RESET_ALL)
+        print("not a number!")
+        # print(Fore.RED + "not a number!" + Style.RESET_ALL)
 
 v = input("Enter 1st number: ")
 trycatch(v)
@@ -28,7 +30,7 @@ y = input("Enter 4th number: ")
 trycatch(y)
 
 if v.isnumeric() and w.isnumeric() and x.isnumeric() and y.isnumeric():
-    z = addtwo(int(x), int(y))
+    z = addfour(int(v), int(w), int(x), int(y))
     print("The total is",z)
 else:
     print("There was no total...")
