@@ -4,3 +4,4 @@
 
 #### Links
 - https://docs.python.org/3/library/stdtypes.html#string-methods
+- http://www.py4inf.com/code/mbox-short.txt
