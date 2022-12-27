@@ -19,4 +19,4 @@ try:
 except:
     print("No value's entered")
 
-# my favourite program up to now with 2 x try/except
+# my favourite program up to now, with 2x try/except
