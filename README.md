@@ -10,10 +10,13 @@ List are "mutable" - you can change an element of a list using the index operato
     List - A linear collection of values that stay in order</br>
     Key - Value</br>
     [0] = 21</br>
-    Dictionary - A "bag" of values, each with its own label</br>
+- Dictionary - A "bag" of values, each with its own label</br>
     Key - Value</br>
     {"candy": 3}</br> 
-    The get() method is commonly used in dictionaries to see if a Key exists - see 'counting.py'</br>
+    The get() method is commonly used in dictionaries to see if a Key exists - see 'count_file.py'</br>
+- Tuples are immutable</br>
+    Unlike a List, once you create a Tuple, you cannot alter its contents - similar to a string.</br>
+    Used for temporary variables, don't require to be modified, so they are simpler and more efficient in terms of memory use and preformance than Lists</br>
 
 #### Links
 - https://docs.python.org/3/library/stdtypes.html#string-methods
@@ -24,3 +27,4 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://www.py4e.com/book.php
 - https://github.com/csev/py4e
 - https://en.wikipedia.org/wiki/Associative_array
+- https://wiki.python.org/moin/HowTo/Sorting
