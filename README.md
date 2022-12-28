@@ -17,6 +17,9 @@ List are "mutable" - you can change an element of a list using the index operato
 - Tuples are immutable</br>
     Unlike a List, once you create a Tuple, you cannot alter its contents - similar to a string.</br>
     Used for temporary variables, don't require to be modified, so they are simpler and more efficient in terms of memory use and preformance than Lists</br>
+- Regular Expressions</br>
+![](regex_quick_quide.png)
+
 
 #### Links
 - https://docs.python.org/3/library/stdtypes.html#string-methods
@@ -28,3 +31,5 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://github.com/csev/py4e
 - https://en.wikipedia.org/wiki/Associative_array
 - https://wiki.python.org/moin/HowTo/Sorting
+- https://en.wikipedia.org/wiki/Regular_expression
+- https://xkcd.com/208/
