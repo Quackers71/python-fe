@@ -18,9 +18,9 @@ List are "mutable" - you can change an element of a list using the index operato
     Unlike a List, once you create a Tuple, you cannot alter its contents - similar to a string.</br>
     Used for temporary variables, don't require to be modified, so they are simpler and more efficient in terms of memory use and preformance than Lists</br>
 - Regular Expressions</br>
-![](./regex_quick_quide.png)
+![](.//Regular_Expressions/regex_quick_quide.png)
 - Networked Programs</br>
-![](./common_tcp_ports.png)
+![](.//Networked_programs/common_tcp_ports.png)
 
 
 #### Links
@@ -41,3 +41,9 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://docs.python.org/3/library/socket.html
 - https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 - https://nmap.org/movies/
+- https://en.wikipedia.org/wiki/ASCII
+- https://catonmat.net/ftp/ascii-cheat-sheet.png
+- https://docs.python.org/3/library/stdtypes.html#bytes.decode
+- https://docs.python.org/3/library/stdtypes.html#str.encode
+- https://en.wikipedia.org/wiki/Web_scraping
+- https://en.wikipedia.org/wiki/Web_crawler

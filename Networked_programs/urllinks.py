@@ -19,3 +19,6 @@ soup = BeautifulSoup(html, 'html.parser')
 tags = soup('a')
 for tag in tags:
     print(tag.get('href', None))
+
+# https://www.crummy.com/software/BeautifulSoup/
+# http://www.dr-chuck.com/
