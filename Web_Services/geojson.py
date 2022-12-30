@@ -49,3 +49,13 @@ while True:
     print('lat', lat, 'lng', lng)
     location = js['results'][0]['formatted_address']
     print(location)
+
+# https://maps.googleapis.com/maps/api/geocode/json?address=Ann+Arbor%2C+MI
+
+# {
+#    "error_message" : "You must use an API key to authenticate each request to Google Maps Platform APIs. For additional information, please refer to http://g.co/dev/maps-no-account",
+#    "results" : [],
+#    "status" : "REQUEST_DENIED"
+# }
+
+# Worked when using : "Ann Arbor MI" on runtime

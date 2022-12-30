@@ -47,3 +47,16 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://docs.python.org/3/library/stdtypes.html#str.encode
 - https://en.wikipedia.org/wiki/Web_scraping
 - https://en.wikipedia.org/wiki/Web_crawler
+- https://en.wikipedia.org/wiki/XML
+- https://en.wikipedia.org/wiki/Serialization
+- https://en.wikipedia.org/wiki/XML_schema
+- https://en.wikibooks.org/wiki/XML_schema
+- https://en.wikipedia.org/wiki/XML_Schema_(W3C)
+- https://www.w3.org/XML/Schema
+- https://en.wikipedia.org/wiki/ISO_8601
+- https://en.wikipedia.org/wiki/Coordinated_Universal_Time
+- https://www.json.org/json-en.html
+- https://en.wikipedia.org/wiki/Service-oriented_architecture
+- https://en.wikipedia.org/wiki/Web_service
+- https://en.wikipedia.org/wiki/API
+- https://oauth.net/
