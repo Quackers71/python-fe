@@ -14,11 +14,11 @@ class RugbyFan(PartyAnimal):
       self.party()
       print(self.name,"points",self.points)
 
-   ages = 0
+   best_age = 0
    def age(self):
-      self.ages += 26
+      self.best_age += 26
       self.party()
-      print(self.name,"age",self.ages)
+      print(self.name,"age",self.best_age)
 
 s = PartyAnimal("Sally")
 s.party()
