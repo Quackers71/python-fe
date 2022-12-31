@@ -21,7 +21,8 @@ List are "mutable" - you can change an element of a list using the index operato
 ![](.//Regular_Expressions/regex_quick_quide.png)
 - Networked Programs</br>
 ![](.//Networked_programs/common_tcp_ports.png)
-
+- Object Oriented Programming
+![](./Python_Objects/definitions.png)
 
 #### Links
 - https://docs.python.org/3/library/stdtypes.html#string-methods
@@ -60,3 +61,8 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://en.wikipedia.org/wiki/Web_service
 - https://en.wikipedia.org/wiki/API
 - https://oauth.net/
+- https://docs.python.org/3/tutorial/datastructures.html
+- https://docs.python.org/3/library/sqlite3.html
+- https://en.wikipedia.org/wiki/Object-oriented_programming
+- https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+- https://www.ibiblio.org/g2swap/byteofpython/read/inheritance.html
