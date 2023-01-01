@@ -21,8 +21,12 @@ List are "mutable" - you can change an element of a list using the index operato
 ![](.//Regular_Expressions/regex_quick_quide.png)
 - Networked Programs</br>
 ![](.//Networked_programs/common_tcp_ports.png)
-- Object Oriented Programming
+- Object Oriented Programming</br>
 ![](./Python_Objects/definitions.png)
+- Database - Relationships</br>
+![](./Databases/music_relationships.png)
+- List all git ignored files in a Repo</br>
+    git check-ignore -v **/*</br>
 
 #### Links
 - https://docs.python.org/3/library/stdtypes.html#string-methods
@@ -66,3 +70,10 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://en.wikipedia.org/wiki/Object-oriented_programming
 - https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 - https://www.ibiblio.org/g2swap/byteofpython/read/inheritance.html
+- https://sqlitebrowser.org/
+- https://en.wikipedia.org/wiki/SQL
+- https://en.wikipedia.org/wiki/Database_administrator
+- https://en.wikipedia.org/wiki/Database_model
+- https://www.py4e.com/lectures3/Pythonlearn-15-Database-Handout.txt
+- https://en.wikipedia.org/wiki/Database_normalization
+- https://en.wikipedia.org/wiki/Many-to-many_(data_model)

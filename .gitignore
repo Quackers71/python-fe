@@ -5,3 +5,7 @@ Databases/hidden.py
 Databases/hidden-backup.py
 Databases/__pycache__/*
 Databases/*.sqlite
+Databases/*.db
+Databases/roster/*.sqlite
+Networked_programs/__pycache__/*
+Python_Objects/__pycache__/*
