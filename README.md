@@ -35,6 +35,7 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://en.wikipedia.org/wiki/Data_structure
 - https://docs.python.org/3/tutorial/datastructures.html
 - https://www.py4e.com/book.php
+- https://www.py4e.com/materials.php
 - https://github.com/csev/py4e
 - https://en.wikipedia.org/wiki/Associative_array
 - https://wiki.python.org/moin/HowTo/Sorting
@@ -77,3 +78,6 @@ List are "mutable" - you can change an element of a list using the index operato
 - https://www.py4e.com/lectures3/Pythonlearn-15-Database-Handout.txt
 - https://en.wikipedia.org/wiki/Database_normalization
 - https://en.wikipedia.org/wiki/Many-to-many_(data_model)
+- https://en.wikipedia.org/wiki/Web_crawler
+- https://en.wikipedia.org/wiki/Robots.txt
+- https://en.wikipedia.org/wiki/Spider_trap
